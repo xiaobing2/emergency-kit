@@ -4,7 +4,7 @@
 例如：https://your-emergency-kit.pages.esa.aliyun.com
 
 Github 仓库地址（需为公开仓库）：
-例如：https://github.com/your-name/emergency-kit-esa
+https://github.com/xiaobing2/emergency-kit
 
 作品说明（可直接提交，可按需微调）：
 
